@@ -22,7 +22,6 @@ net/openntpd
 net/relayd
 net/haproxy
 www/varnish
-www/varnish4
 
 databases/hiredis
 databases/postgresql94-server
@@ -40,4 +39,5 @@ sysutils/megarc
 sysutils/megacli
 sysutils/areca-cli
 sysutils/syslog-ng
+sysutils/py-salt
 
