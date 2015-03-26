@@ -17,6 +17,7 @@ dns/ldns
 
 lang/erlang
 lang/ruby22
+devel/ruby-gems
 lang/python27
 
 www/nginx
