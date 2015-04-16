@@ -7,6 +7,7 @@ mail/dovecot2-pigeonhole
 mail/sqlgrey
 mail/pflogsumm
 mail/dkimproxy
+mail/opensmtpd
 
 dns/dnsmasq
 dns/unbound
@@ -20,11 +21,11 @@ lang/ruby22
 devel/ruby-gems
 lang/python27
 
-www/nginx
 net/openntpd
 net/relayd
 net/haproxy
 www/varnish
+www/nginx
 
 databases/hiredis
 databases/postgresql94-server
@@ -32,6 +33,7 @@ databases/postgresql94-server
 security/gnupg
 security/openssh-portable
 security/openvpn
+security/stunnel
 
 shells/bash
 shells/bash-completion
@@ -41,3 +43,4 @@ sysutils/megacli
 sysutils/areca-cli
 sysutils/devcpu-data
 
+ftp/curl
