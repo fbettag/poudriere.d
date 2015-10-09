@@ -26,6 +26,7 @@ lang/python27
 #devel/arduino
 
 net/openntpd
+net/netatalk3
 net/relayd
 net/haproxy
 www/varnish
@@ -43,6 +44,7 @@ security/openssh-portable
 security/openvpn
 security/stunnel
 
+shells/zsh
 shells/bash
 shells/bash-completion
 sysutils/pefs-kmod
@@ -53,4 +55,6 @@ sysutils/devcpu-data
 ports-mgmt/pkg
 
 sysutils/screen
+sysutils/tmux
 ftp/curl
+
