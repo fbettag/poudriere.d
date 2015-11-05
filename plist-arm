@@ -10,22 +10,30 @@ mail/dkimproxy
 mail/opensmtpd
 mail/ssmtp
 
+dns/dnsmasq
 dns/unbound
 dns/bind910
 dns/bind-tools
 dns/unbound
 dns/ldns
 
+#lang/erlang
 lang/ruby22
 devel/ruby-gems
+devel/git
+#devel/distcc
+#devel/ccache
 lang/python27
 
-devel/git
 #devel/arduino
 
+net/hostapd
 net/openntpd
+net/netatalk3
 net/relayd
+net/haproxy
 www/varnish
+www/varnish4
 www/nginx
 ftp/vsftpd
 
@@ -34,13 +42,21 @@ databases/rubygem-hiredis
 databases/postgresql94-server
 databases/rubygem-pg
 
+security/gnupg
 security/openssh-portable
 security/openvpn
 security/stunnel
+sercurity/pixiewps
 
+shells/zsh
 shells/bash
 shells/bash-completion
 ports-mgmt/pkg
 
 sysutils/screen
+sysutils/tmux
 ftp/curl
+
+multimedia/tvheadend
+multimedia/oscam
+

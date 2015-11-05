@@ -21,10 +21,13 @@ lang/erlang
 lang/ruby22
 devel/ruby-gems
 devel/git
+devel/distcc
+devel/ccache
 lang/python27
 
 #devel/arduino
 
+net/hostapd
 net/openntpd
 net/netatalk3
 net/relayd
@@ -43,15 +46,11 @@ security/gnupg
 security/openssh-portable
 security/openvpn
 security/stunnel
+security/pixiewps
 
 shells/zsh
 shells/bash
 shells/bash-completion
-sysutils/pefs-kmod
-sysutils/megarc
-sysutils/megacli
-sysutils/areca-cli
-sysutils/devcpu-data
 ports-mgmt/pkg
 
 sysutils/screen
@@ -59,4 +58,11 @@ sysutils/tmux
 ftp/curl
 
 multimedia/tvheadend
+multimedia/oscam
+
+sysutils/pefs-kmod
+sysutils/megarc
+sysutils/megacli
+sysutils/areca-cli
+sysutils/devcpu-data
 
