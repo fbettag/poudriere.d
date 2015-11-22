@@ -29,6 +29,7 @@ lang/python27
 
 net/hostapd
 net/openntpd
+net/opensips
 net/netatalk3
 net/relayd
 net/haproxy
@@ -65,4 +66,5 @@ sysutils/megarc
 sysutils/megacli
 sysutils/areca-cli
 sysutils/devcpu-data
-
+sysutils/cfengine37
+sysutils/syslog-ng
