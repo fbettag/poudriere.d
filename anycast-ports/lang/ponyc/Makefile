@@ -12,9 +12,11 @@ COMMENT=Pony language compiler
 LICENSE=        BSD2CLAUSE
 
 LIB_DEPENDS=	libunwind.so:${PORTSDIR}/devel/libunwind
+BUILD_DEPENDS=	llvm-link36:${PORTSDIR}/devel/llvm36
+RUN_DEPENDS=	llvm-link36:${PORTSDIR}/devel/llvm36
 
 USES=		gmake
-WRKSRC=		work/${PORTNAME}-${PORTVERSION}
+WRKSRC=		${WRKDIR}/${PORTNAME}-${PORTVERSION}
 PLIST_FILES=	bin/ponyc
 ALL_TARGET=	config=release
 

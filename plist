@@ -71,7 +71,3 @@ sysutils/devcpu-data
 sysutils/cfengine37
 sysutils/syslog-ng
 
-print/texlive2012-base
-print/texlive2012-texmf
-print/texlive2012-full
-print/tex-xetex2012
