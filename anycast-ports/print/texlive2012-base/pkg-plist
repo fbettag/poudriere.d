@@ -415,7 +415,7 @@ man/man5/updmap.cfg.5.gz
 %%TEXMFDIR%%/scripts/texdoc/texdoc.tlu
 %%TEXMFDIR%%/scripts/texlive/rungs.tlu
 %%TEXMFDIR%%/scripts/texlive/tlmgr.pl
-@(root,wheel,0644)%%TEXMFDIR%%/web2c/fmtutil.cnf
+%%TEXMFDIR%%/web2c/fmtutil.cnf
 %%TEXMFCONFIGDIR%%/web2c/.keep_me
 %%FMTUTIL_CNF%%
 @dirrmtry %%TEXMFCONFIGDIR%%/web2c

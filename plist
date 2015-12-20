@@ -17,6 +17,7 @@ dns/bind-tools
 dns/unbound
 dns/ldns
 
+lang/ponyc
 lang/erlang
 lang/ruby22
 devel/ruby-gems
@@ -54,6 +55,7 @@ shells/bash
 shells/bash-completion
 ports-mgmt/pkg
 
+net-p2p/sonarr
 sysutils/screen
 sysutils/tmux
 ftp/curl
@@ -70,4 +72,6 @@ sysutils/cfengine37
 sysutils/syslog-ng
 
 print/texlive2012-base
+print/texlive2012-texmf
 print/texlive2012-full
+print/tex-xetex2012

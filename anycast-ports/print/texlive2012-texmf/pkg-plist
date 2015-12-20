@@ -68962,6 +68962,7 @@
 %%TEXMFDIR%%/scripts/texlive/lua/texlive/getopt.tlu
 %%TEXMFDIR%%/scripts/texlive/lua/texlive/tlpdb.tlu
 %%TEXMFDIR%%/scripts/chktex/deweb.pl
+@dir %%TEXMFDISTDIR%%/scripts/checkcites
 @dirrm %%TEXMFDISTDIR%%/source/latex/koma-script/doc/ngerman
 @dirrm %%TEXMFDISTDIR%%/source/latex/koma-script/doc/english
 @dirrm %%TEXMFDISTDIR%%/source/latex/koma-script/doc/bin
