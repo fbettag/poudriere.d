@@ -2,7 +2,7 @@ databases/hiredis
 databases/postgresql95-server
 databases/rubygem-hiredis
 databases/rubygem-pg
-devel/arduino
+#devel/arduino
 devel/ccache
 devel/distcc
 devel/git
@@ -31,6 +31,7 @@ mail/ssmtp
 multimedia/oscam
 multimedia/tvheadend
 multimedia/webcamd
+net-im/profanity
 net/haproxy
 net/hostapd
 net/netatalk3
