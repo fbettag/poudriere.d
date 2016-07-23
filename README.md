@@ -26,8 +26,8 @@ Create a jail to build packages:
 ```
 poudriere jail -c -j freebsd9-i386 -v 9.3-RELEASE -a i386
 poudriere jail -c -j freebsd9-amd64 -v 9.3-RELEASE -a amd64
-poudriere jail -c -j freebsd10-i386 -v 10.2-RELEASE -a i386
-poudriere jail -c -j freebsd10-amd64 -v 10.2-RELEASE -a amd64
+poudriere jail -c -j freebsd10-i386 -v 10.3-RELEASE -a i386
+poudriere jail -c -j freebsd10-amd64 -v 10.3-RELEASE -a amd64
 ```
 
 Link the default patch location into this repository:

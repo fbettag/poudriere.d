@@ -1,0 +1,9 @@
+DalmatinerDB is a no fluff purpose built metric database.
+Not a layer put on top of a general purpose database or datastore.
+This allows features that otherwise wouldn't be possible:
+- a highly optimized network protocol
+- sequential reads/writes for metrics
+- and a client-server model that takes as much load from the actual store as possible
+DalmatinerDB is built to take advantage of its features such as integrity, ARC, compression, and ZIL.
+
+WWW: https://dalmatiner.io
