@@ -1,5 +1,5 @@
 databases/hiredis
-databases/postgresql95-server
+databases/postgresql94-server
 databases/rubygem-hiredis
 databases/rubygem-pg
 #devel/arduino
@@ -43,7 +43,6 @@ ports-mgmt/poudriere-devel
 security/gnupg
 security/openssh-portable
 security/openvpn
-security/letskencrypt
 security/pixiewps
 security/stud
 security/stunnel
